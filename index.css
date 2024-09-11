@@ -1,0 +1,26 @@
+* {
+    font-family: Cabin;
+    border: border-box;
+    margin: 0;
+}
+
+.nav-bar {
+    height: 60px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url("logo.png");
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
